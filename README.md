@@ -38,9 +38,6 @@ Email/SMS: [Nodemailer, Twilio, etc.]
 Deployment: [Your hosting platform — e.g. Heroku, AWS, DigitalOcean]
 
 # 📁 Project Structure
-bash
-Copy
-Edit
 Medical‑Store‑E‑Commerce/
 ├── client/ or static/ & templates/  # Frontend files
 ├── server/ or app.js                # Backend APIs & business logic
@@ -55,37 +52,38 @@ Medical‑Store‑E‑Commerce/
 
 # ⚙️ Setup Instructions
 🔄 Clone the Repo
-
+```python
 git clone https://github.com/AaryaMehta2506/Medical-Store-E-Commerce-Website.git
 cd Medical-Store-E-Commerce-Website
+```
 📦 Install Dependencies
-bash
-Copy
-Edit
 # Backend
+```python
 cd server
 npm install   # or pip install -r requirements.txt
+```
 # Frontend (if separate)
+```
 cd client
 npm install
+```
 🌱 Environment Setup
 Create a .env file with required variables:
-
-ini
-Copy
-Edit
+```ini
 DB_URI=...
 PAYMENT_KEY=...
 EMAIL_USER=...
 EMAIL_PASS=...
+```
 🚀 Run the App
-bash
-Copy
-Edit
 # Backend
+```python
 npm start    # or python app.py
+```
 # Frontend (if separate)
+```
 npm run dev
+```
 Then navigate to http://localhost:3000 (or 5000, depending on your setup).
 
 # 📊 How It Works
