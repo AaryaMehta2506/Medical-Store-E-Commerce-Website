@@ -129,3 +129,8 @@ Licensed under the MIT License – see the [![License: MIT](https://img.shields.
 [Nodemailer / Twilio] – For communications
 
 Open-source libraries and frameworks used in the project
+
+## 👩‍💻 Author
+
+**Aarya Mehta**  
+🔗 [GitHub Profile](https://github.com/AaryaMehta2506)
