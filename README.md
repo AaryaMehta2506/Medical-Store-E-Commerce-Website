@@ -52,13 +52,13 @@ Medical‑Store‑E‑Commerce/
 
 # ⚙️ Setup Instructions
 🔄 Clone the Repo
-```python
+```
 git clone https://github.com/AaryaMehta2506/Medical-Store-E-Commerce-Website.git
 cd Medical-Store-E-Commerce-Website
 ```
 📦 Install Dependencies
 # Backend
-```python
+```
 cd server
 npm install   # or pip install -r requirements.txt
 ```
@@ -69,7 +69,7 @@ npm install
 ```
 🌱 Environment Setup
 Create a .env file with required variables:
-```ini
+```
 DB_URI=...
 PAYMENT_KEY=...
 EMAIL_USER=...
@@ -77,7 +77,7 @@ EMAIL_PASS=...
 ```
 🚀 Run the App
 # Backend
-```python
+```
 npm start    # or python app.py
 ```
 # Frontend (if separate)
