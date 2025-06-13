@@ -119,7 +119,7 @@ Create a feature branch (git checkout -b feature-X)
 Submit a PR with clear explanations
 
 # 📄 License
-Licensed under the MIT License – see the LICENSE file.
+Licensed under the MIT License – see the [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) file.
 
 # 🙏 Acknowledgments
 [Flask / Django / Express] – For powering the backend
